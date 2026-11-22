@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-aphichit.vercel.app"><img src="https://img.shields.io/badge/%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="พอร์ตโฟลิโอ"/></a>
-  <a href="mailto:xsiseux292@gmail.com"><img src="https://img.shields.io/badge/%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="อีเมล"/></a>
-  <a href="https://www.facebook.com/konyarkrai/"><img src="https://img.shields.io/badge/%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%81-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="เฟซบุ๊ก"/></a>
+  <a href="https://portfolio-aphichit.vercel.app"><img src="https://img.shields.io/badge/%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%B4%E0%B9%82%E0%B8%AD-000000?style=flat-square&logo=vercel&logoColor=white" alt="พอร์ตโฟลิโอ"/></a>
+  <a href="mailto:xsiseux292@gmail.com"><img src="https://img.shields.io/badge/%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%A5-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="อีเมล"/></a>
+  <a href="https://www.facebook.com/konyarkrai/"><img src="https://img.shields.io/badge/%E0%B9%80%E0%B8%9F%E0%B8%8B%E0%B8%9A%E0%B8%B8%E0%B9%8A%E0%B8%81-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="เฟซบุ๊ก"/></a>
 </p>
 
 ---
